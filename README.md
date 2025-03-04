@@ -6,8 +6,10 @@
 <!--
 **sofiaguero/sofiaguero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-
+<div align="center">
+    <img src="https://media3.giphy.com/media/oA88lDC8EJasiPLqhZ/100.webp?cid=ecf05e47t9a8hb1f06uelydwkzayz7c54zxyvk3z5totzxq1&ep=v1_gifs_related&rid=100.webp&ct=g" height="120px" />
+</div>
+https://media3.giphy.com/media/oA88lDC8EJasiPLqhZ/100.webp?cid=ecf05e47t9a8hb1f06uelydwkzayz7c54zxyvk3z5totzxq1&ep=v1_gifs_related&rid=100.webp&ct=g
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
