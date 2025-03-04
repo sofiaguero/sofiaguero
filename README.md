@@ -1,4 +1,4 @@
-Hi! I'm Sofi✨
+<h1 align="center" >Hi! I'm Sofi✨</h1>
 
 <div align="center">
     <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e47tj38nin4uo2qq72myuhgyoyxjuxi66kvfo73a1wm&ep=v1_gifs_related&rid=giphy.gif&ct=g" height="120px" />
