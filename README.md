@@ -1,7 +1,7 @@
 
 
 <div align="center">
-    <img src="[https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/fly.webp](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e47tj38nin4uo2qq72myuhgyoyxjuxi66kvfo73a1wm&ep=v1_gifs_related&rid=giphy.gif&ct=g)" height="120px" />
+    <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e47tj38nin4uo2qq72myuhgyoyxjuxi66kvfo73a1wm&ep=v1_gifs_related&rid=giphy.gif&ct=g" height="120px" />
 </div>
 <!--
 **sofiaguero/sofiaguero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
