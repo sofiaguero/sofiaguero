@@ -10,10 +10,10 @@
     <img src="https://media3.giphy.com/media/oA88lDC8EJasiPLqhZ/100.webp?cid=ecf05e47t9a8hb1f06uelydwkzayz7c54zxyvk3z5totzxq1&ep=v1_gifs_related&rid=100.webp&ct=g" height="120px" />
 </div>
 
-## 🚀 About Me
-🎓 I'm a [your role] from [your location].  
-💡 Passionate about [your interests].  
-🔥 I love working with [your favorite technologies]. 
+## 🚀 About Me  
+🎓 I'm a Backend Developer from Argentina.  
+💡 Passionate about cats and programming.  
+🔥 I love working with Node.js.  
 
 ## 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -31,14 +31,14 @@
 ## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Connect Me Via
 
 <p align="center">
-    <a href="www.linkedin.com/in/sofiaagüero3312" target="_blank">
+    <a href="https://www.linkedin.com/in/sofiaagüero3312" target="_blank">
     <img align="center" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
   <a href="https://github.com/sofiaguero" target="_blank">
     <img align="center" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
 
-  <a href="sofiaguero3312@gmail.com" >
+  <a href="mailto:sofiaguero3312@gmail.com" >
     <img align="center" alt=" Gmail" width="26px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" />
   </a> &nbsp;&nbsp;
 <p>
