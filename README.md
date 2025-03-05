@@ -10,14 +10,21 @@
     <img src="https://media3.giphy.com/media/oA88lDC8EJasiPLqhZ/100.webp?cid=ecf05e47t9a8hb1f06uelydwkzayz7c54zxyvk3z5totzxq1&ep=v1_gifs_related&rid=100.webp&ct=g" height="120px" />
 </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 About Me
+🎓 I'm a [your role] from [your location].  
+💡 Passionate about [your interests].  
+🔥 I love working with [your favorite technologies]. 
+
+## 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📊 GitHub Stats
+<p align="center">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=sofiaguero&show_icons=true&theme=radical" />
+</p>
 
 
 
@@ -38,6 +45,8 @@
 
 
 <div align="center">
-  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
+    Thanks for visiting! Have an awesome day! 🚀
 </div>
+
 
